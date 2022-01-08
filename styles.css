@@ -2,5 +2,9 @@ body {
   font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
   background-color: red;
+
   margin: 20px;
+
+  padding: 30px;
+
 }
